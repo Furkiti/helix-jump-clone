@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\MirFur\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\MirFur\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Helix Jump.-651356939.00" t="ExcludeRecursive" />
+    <e p="C:\Users\MirFur\Desktop\Unity Projects\Helix Jump" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BallController.cs" t="Include" />
+          <e p="Base Scripts" t="Include">
+            <e p="BaseObject.cs" t="Include" />
+          </e>
+          <e p="CameraController.cs" t="Include" />
+          <e p="DeathPart.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="HelixController.cs" t="Include" />
+          <e p="NextLevel.cs" t="Include" />
+          <e p="PassChecker.cs" t="Include" />
+          <e p="SaveDatas.cs" t="Include" />
+          <e p="ScoreController.cs" t="Include" />
+          <e p="UI Scripts" t="Include">
+            <e p="DeadCanvas.cs" t="Include" />
+            <e p="InGameCanvas.cs" t="Include" />
+            <e p="MainMenuCanvas.cs" t="Include" />
+          </e>
+          <e p="UIController.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ui" t="Include">
+          <e p="uipack_fixed" t="Include">
+            <e p="license.txt" t="Include" />
+            <e p="Spritesheet" t="Include">
+              <e p="blueSheet.xml" t="Include" />
+              <e p="greenSheet.xml" t="Include" />
+              <e p="greySheet.xml" t="Include" />
+              <e p="redSheet.xml" t="Include" />
+              <e p="yellowSheet.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Helix Jump.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
