@@ -1,3 +1,3 @@
 # helix-jump-clone
- 
-helix jump oyununun clone denemesi. 
+
+Clone of helix jump game
